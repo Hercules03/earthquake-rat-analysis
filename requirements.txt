@@ -1,0 +1,19 @@
+# Core RAG/RAT requirements
+raglight>=1.5.3
+chromadb>=0.4.18
+
+# Additional libraries for data handling
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Optional: For advanced data visualization (if needed)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.13.0
+
+# Optional: For handling various file formats
+python-docx>=0.8.11
+pypdf>=3.15.1
+
+# Environment management
+python-dotenv>=1.0.0
